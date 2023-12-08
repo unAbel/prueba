@@ -1,2 +1,8 @@
 !hola abel!
 estos cambios solo estan en la rama abel
+Mis disculpas por la confusión. Hasta mi última actualización en enero de 2022, Google 
+Chrome no tiene una función de "Modo de Lectura" nativa como algunos otros navegadores.
+Sin embargo, puedes considerar usar extensiones de terceros desde la Chrome Web Store 
+para obtener funciones similares.
+Una extensión popular para activar un modo de lectura en Chrome es "Mercury Reader".
+Aquí hay un breve paso a paso para instalar y usar esta extensión:
