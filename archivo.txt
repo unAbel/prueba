@@ -1,4 +1,4 @@
-!hola tomas! mas cambios
+!hola abel!
 estos cambios solo estan en la rama tomas y añadire esto mas
 Mis disculpas por la confusión. Hasta mi última actualización en enero de 2022, Google 
 Chrome no tiene una función de "Modo de Lectura" nativa como algunos otros navegadores.
@@ -16,7 +16,7 @@ Aquí hay un breve paso a paso para instalar y usar esta extensión:
 
 
 
-
+nueva linea
 
 
 
